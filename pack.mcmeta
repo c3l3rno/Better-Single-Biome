@@ -1,0 +1,20 @@
+{
+    "pack": {
+        "pack_format": 48,
+        "description":[
+          {
+            "text": "Better Single Biome ",
+            "color": "#b0b0b0"
+          },
+          "\n",
+          {
+            "text": "made by ",
+            "color": "#b0b0b0"
+          },
+          {
+            "text": "c3l3rno",
+            "color": "#00FFCC"
+          }
+        ]
+    }
+}
